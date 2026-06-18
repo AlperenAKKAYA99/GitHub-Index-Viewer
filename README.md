@@ -8,6 +8,10 @@ Kullanıcı verilerinin nasıl işlendiği hakkında detaylı bilgi için Gizlil
 
 👉 **[Privacy Policy](https://alperenakkaya.dev/privacy.php?app=GitHub_Index_Viewer)**
 
+## 📄 Lisans
+
+Bu proje [MIT Lisansı](LICENSE) altında yayınlanmıştır. Ayrıntılar için LICENSE dosyasını inceleyebilirsiniz.
+
 # GitHub Index Viewer 🚀
 
 GitHub projelerindeki HTML, CSS ve JavaScript dosyalarını bilgisayarınıza indirmeye gerek kalmadan, doğrudan tarayıcınız üzerinden canlı olarak önizlemenizi sağlayan hafif ve güvenli bir Google Chrome eklentisidir.
