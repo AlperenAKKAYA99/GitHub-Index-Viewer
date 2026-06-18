@@ -1,0 +1,9 @@
+/* 
+ * Tüm buton CSS kodları kaldırıldı.
+ * Buton tamamen GitHub'ın kendi yerel CSS sınıflarını (btn btn-sm) kullanıyor. 
+ */
+
+svg.svg-code-css {
+	width: 14px;
+	height: 14px;
+}
