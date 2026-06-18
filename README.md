@@ -10,6 +10,17 @@ GitHub projelerindeki HTML, CSS ve JavaScript dosyalarını bilgisayarınıza in
 - **Modern ve Zarif Popup:** Güncel tasarım trendlerine uygun, şık ve karanlık mod destekli bilgilendirme penceresi.
 - **Güvenli (Manifest V3):** Google Chrome'un en güncel güvenlik standartları olan Manifest V3 kurallarına uygun olarak geliştirilmiştir. Kullanıcı verisi toplamaz!
 
+## 🖼️ Ekran Görüntüleri
+
+<p align="center">
+  <img width="921" height="576" alt="ss1" src="https://raw.githubusercontent.com/AlperenAKKAYA99/GitHub-Index-Viewer/refs/heads/main/ss/ss1.jpg" />
+</p>
+
+<p align="center">
+  <img width="921" height="576" alt="ss2" src="https://raw.githubusercontent.com/AlperenAKKAYA99/GitHub-Index-Viewer/refs/heads/main/ss/ss2.jpg" />
+</p>
+
+
 ## 📥 Kurulum (Geliştirici Modu)
 
 Eklentiyi kaynak koddan manuel olarak Chrome'a yüklemek için:
@@ -35,9 +46,9 @@ Artık eklenti kullanıma hazır! GitHub üzerinde herhangi bir repoya girdiğin
 - Eklenti, sadece ziyaret ettiğiniz sayfanın URL'sini ve Branch bilgisini okuyarak, projenin canlı versiyonuna `raw.githack.com` üzerinden güvenli bir şekilde yönlendirme sağlar. 
 - Reklam modülü (Destekçi alanı), tamamen anonim bir şekilde çalışır ve eklenti geliştiricisine ait sunucudan (alperenakkaya.dev) salt okunur API bağlantısıyla verileri çeker.
 
-## 🤝 Destek Olun
+## 🤝 İletişim ve Destek
 
-Eğer bu eklenti işinize yaradıysa, projenin gelişerek devam etmesi için bize destek olabilirsiniz. Destek olmak ve iletişim için [alperenakkaya.dev](https://alperenakkaya.dev/) adresini ziyaret edebilirsiniz! ☕
+Reklam ve iş birliği ortaklıkları için [ads.alperenakkaya.dev](https://ads.alperenakkaya.dev/) adresini ziyaret edebilir veya proje destek kanalı üzerinden [pay.alperenakkaya.dev/ads](https://pay.alperenakkaya.dev/ads) ile destek sağlayabilirsiniz.
 
 ---
 **Geliştirici:** [Alperen Akkaya](https://alperenakkaya.dev/)
