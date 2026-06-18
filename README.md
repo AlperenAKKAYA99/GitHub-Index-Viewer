@@ -1,3 +1,9 @@
+## 🚀 Hemen Deneyin
+
+GitHub projelerini tek tıkla canlı önizlemek için eklentiyi Chrome Web Store üzerinden yükleyin.
+
+👉 **[Chrome Web Store'dan Yükle](CHROME_STORE_URL)**
+
 # GitHub Index Viewer 🚀
 
 GitHub projelerindeki HTML, CSS ve JavaScript dosyalarını bilgisayarınıza indirmeye gerek kalmadan, doğrudan tarayıcınız üzerinden canlı olarak önizlemenizi sağlayan hafif ve güvenli bir Google Chrome eklentisidir.
