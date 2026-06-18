@@ -52,3 +52,28 @@ Reklam ve iş birliği ortaklıkları için [ads.alperenakkaya.dev](https://ads.
 
 ---
 **Geliştirici:** [Alperen Akkaya](https://alperenakkaya.dev/)
+---
+
+## ⚠️ Önemli Yasal Uyarı ve Sorumluluk Reddi (Disclaimer)
+
+[!WARNING]
+### Üçüncü Taraf İçerikler
+GitHub Index Viewer, GitHub üzerinde herkese açık olarak yayınlanan projelerin önizlenmesini kolaylaştıran bağımsız bir tarayıcı eklentisidir. Eklenti tarafından görüntülenen içerikler, ilgili proje sahipleri tarafından sağlanmaktadır.
+
+Eklenti geliştiricisi; görüntülenen proje içeriklerinin doğruluğu, güncelliği, güvenilirliği veya güvenliği konusunda herhangi bir garanti vermez ve bu içeriklerden sorumlu tutulamaz.
+
+### Harici Servis Kullanımı
+Canlı önizleme özelliği, üçüncü taraf bir servis olan **raw.githack.com** altyapısını kullanmaktadır. Bu servisin erişilebilirliği, performansı veya sürekliliği üzerinde eklenti geliştiricisinin herhangi bir kontrolü bulunmamaktadır.
+
+Üçüncü taraf servislerde yaşanabilecek kesintiler, gecikmeler veya teknik sorunlardan dolayı eklentinin belirli özellikleri geçici olarak kullanılamayabilir.
+
+### Güvenlik Sorumluluğu
+Önizlenen projeler içerisinde çalıştırılan HTML, CSS ve JavaScript dosyaları ilgili depo sahiplerine aittir. Kullanıcılar, bilinmeyen veya güvenilmeyen kaynaklardan gelen projeleri görüntülerken gerekli güvenlik değerlendirmelerini kendileri yapmakla yükümlüdür.
+
+### Marka ve Telif Hakları
+GitHub®, GitHub Inc.'in ticari markasıdır. Bu eklenti GitHub tarafından geliştirilmemiş, desteklenmemiş veya resmi olarak onaylanmamıştır.
+
+Tüm proje isimleri, logoları, marka adları ve telif hakları ilgili hak sahiplerine aittir.
+
+### Sorumluluğun Sınırlandırılması
+Bu eklenti "olduğu gibi" (AS IS) sunulmaktadır. Eklentinin kullanımından veya kullanılamamasından kaynaklanabilecek doğrudan, dolaylı, tesadüfi, özel veya sonuç olarak ortaya çıkan herhangi bir zarar, veri kaybı veya iş kesintisinden geliştirici sorumlu tutulamaz.
