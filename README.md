@@ -7,7 +7,7 @@ GitHub Index Viewer artık Chrome Web Store'da!
 ## 🔒 Gizlilik Politikası
 Kullanıcı verilerinin nasıl işlendiği hakkında detaylı bilgi için Gizlilik Politikamızı inceleyebilirsiniz:
 
-**[👉 Privacy Policy]([CHROME_STORE_URL](https://alperenakkaya.dev/privacy.php?app=GitHub_Index_Viewer))**
+👉 **[Privacy Policy]([CHROME_STORE_URL](https://alperenakkaya.dev/privacy.php?app=GitHub_Index_Viewer))**
 
 # GitHub Index Viewer 🚀
 
